@@ -36,6 +36,6 @@
 
 ## 📫 How to reach me
 
-- 📧 amanciio93@gmail.com
-- 📱 (17) 99249-4114
 - 💼 <a href="https://www.linkedin.com/in/amanciio93" target="_blank">LinkedIn</a> 
+- 📱 (17) 99249-4114
+- 📧 amanciio93@gmail.com
