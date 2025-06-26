@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/> 
   <img src="https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ---
@@ -35,6 +36,4 @@
 
 ## 📫 How to reach me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/amanciio93)
-- 📧 amanciio93@gmail.com
-- 📱 (17) 99249-4114
+- 💼 <a href="https://www.linkedin.com/in/amanciio93" target="_blank">LinkedIn</a> || - 📧 amanciio93@gmail.com || - 📱 (17) 99249-4114
