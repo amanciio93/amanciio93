@@ -1,8 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Jonathan Amancio;</h1>
 
 <p align="center">
-  Currently studying Computer Engineering at the Virtual University of the State of São Paulo (UNIVESP) and a self-taught systems developer. Passionate about technology, coffee, and rock music!
-  Continuously improving my English skills.
+  Currently studying Computer Engineering at the Virtual University of the State of São Paulo (UNIVESP) and working as a help desk technician and junior developer, focusing on ERP and POS systems. Passionate about technology, coffee, and rock music. Continuously improving my English skills.
 </p>
 
 ---
